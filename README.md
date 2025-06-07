@@ -6,52 +6,46 @@ The Open Source Blender Project “Sintel” movie characater model has been use
 
 Sintel is a part of the Blender project and created as an open source 3D modelling asset for free use by the community.
 
-Licence: CC-BY 4.0 - see http://www.sintel.org/sharing/
+- http://www.sintel.org/ 
+- http://www.blender.org/
+- Licence: CC-BY 4.0 - see http://www.sintel.org/sharing/
+ 
+- Blender Character: Sintel v2
+  - https://studio.blender.org/characters/5d41a32b8307e9cd1023fa78/v2/
 
-* http://www.sintel.org/ 
-* http://www.blender.org/
-
-See also https://blog.inf.ed.ac.uk/atate/2018/08/13/sintel-resources/
-
-Blender Character: Sintel v2
-* https://studio.blender.org/characters/5d41a32b8307e9cd1023fa78/v2/
-
-Blender Character: Scales: Baby Dragon
-* https://studio.blender.org/characters/5703a17dc379cf032c7b2616/v2/
+- Blender Character: Scales: Baby Dragon
+  - https://studio.blender.org/characters/5703a17dc379cf032c7b2616/v2/
 
 # Original Sources of Meshes and Avatars
 
-http://www.sintel.org/news/sintel-lite/
+- http://www.sintel.org/news/sintel-lite/
+- http://www.blendswap.com/3D-models/characters/sintel-lite/ (not active)
+- Fork via BenDansie at https://www.blendswap.com/blend/2847
+- Find other Sintel related resources via search at https://blendswap.com/search?keyword=Sintel
 
-http://www.blendswap.com/3D-models/characters/sintel-lite/ (not active)
-* Fork via BenDansie at [https://blendswap.com/blend/2546](https://www.blendswap.com/blend/2847)
-* 
-Find other Sintel related resources via search at https://blendswap.com/search?keyword=Sintel
 
-With the version uploaded to Blendswap.com I somehow left out the textures. The other links are fine.
+- Textures for Sintel Lite at the advertised location are no longer available. Origional URL was:
+  - http://cdupload.com/files/164326_afujl/sintel_lite_textures.zip
 
-http://cdupload.com/files/164326_afujl/sintel_lite_textures.zip – about 1mb
+- Blend Swap version for Blender “Cycles” Renderer by gregzaal along with links to texture downloads.
+  - https://blendswap.com/blend/7857
 
-Blend Swap version for Blender “Cycles” Renderer by gregzaal along with links to texture downloads.
-https://blendswap.com/blend/7857
+- Animium Blender Model with all mesh parts (armbands, legbands, belt, corset, short stitches and staff)
+  - http://animium.com/2011/05/sintel-3d-character-model
 
-Animium Blender Model with all mesh parts (armbands, legbands, belt, corset, short stitches and staff)
-http://animium.com/2011/05/sintel-3d-character-model
+- Blend Swap Sintel Backpack by Pablo Lizardo and Jarrhead
+  - https://www.blendswap.com/blend/2138
+  - based on "Sintel backpack textured" by Jarrhead on May 23, 2011
+  - Released under: Creative Commons Attribution 3.0
+  - Downloaded from http://www.blendswap.com/blends/view/3462
 
-Blend Swap Sintel Backpack by Pablo Lizardo and Jarrhead
-* https://www.blendswap.com/blend/2138
-* based on "Sintel backpack textured" by Jarrhead on May 23, 2011
-* Released under: Creative Commons Attribution 3.0
-* Downloaded from http://www.blendswap.com/blends/view/3462
-
-Sintel Avatar from http://u3d.at.ua/ by SaNEk
-(where you need to register before being able to obtain the free download).
-http://u3d.at.ua/load/modeli/ljudi_personazhi/sintel_character_for_unity/14-1-0-2929
+- Sintel Avatar from http://u3d.at.ua/ by SaNEk (where you need to register before being able to obtain the free download).
+  - http://u3d.at.ua/load/modeli/ljudi_personazhi/sintel_character_for_unity/14-1-0-2929
 
 # Other Sources and Downloads
 
-Sintel Lite Cycles and Hair by andrewprice - https://blendswap.com/profile/19868
-* https://blendswap.com/blend/8114
+- Sintel Lite Cycles and Hair by andrewprice - https://blendswap.com/profile/19868
+  - https://blendswap.com/blend/8114
 
 # Information for Second Life and OpenSim
 
@@ -60,6 +54,6 @@ Sintel avatar core rigged version was created from a Collada/DAE mesh provided b
 For import to Second Life and OpenSim...
 
 Upload Options:
-* Include Skin Weight
-* Include Joint Positions
-* Z offset = 0 (then body shape needs 48 rather than default 50)
+- Include Skin Weight
+- Include Joint Positions
+- Z offset = 0 (then body shape needs 48 rather than default 50)
