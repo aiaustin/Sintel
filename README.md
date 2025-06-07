@@ -10,7 +10,7 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 - http://www.blender.org/
 - Licence: CC-BY 4.0 - see http://www.sintel.org/sharing/
  
-- Blender Character: Sintel https://studio.blender.org/characters/5d41a32b8307e9cd1023fa78/v2/
+- Blender Character: Sintel - https://studio.blender.org/characters/5d41a32b8307e9cd1023fa78/v2/
 
 - Blender Character: Scales: Baby Dragon - https://studio.blender.org/characters/5703a17dc379cf032c7b2616/v2/
 
