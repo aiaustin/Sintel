@@ -24,7 +24,7 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 - Textures for Sintel Lite at the advertised location are no longer available. Original URL was:
   - http://cdupload.com/files/164326_afujl/sintel_lite_textures.zip
  
-- Sintel Lite Update by Angela Guenette, rigged by Nathan Vegdahl andXNLara (xnaaral)). Imported to Blender by meta-androcto. Low poly, small texture size and a simple bullet proof rig. This file 13MB (textures included and packed in .blend).
+- Sintel 2.63+ - Sintel Lite Update by Angela Guenette, rigged by Nathan Vegdahl andXNLara (xnaaral)). Imported to Blender by meta-androcto. Low poly, small texture size and a simple bullet proof rig. This file 13MB (textures included and packed in .blend).
  - https://blendswap.com/blend/6582
 
 - Blend Swap version for Blender “Cycles” Renderer by gregzaal along with links to texture downloads.
