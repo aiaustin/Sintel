@@ -10,7 +10,7 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 - http://www.blender.org/
 - Licence: CC-BY 4.0 - see http://www.sintel.org/sharing/
  
-- Blender Character: Sintel v2
+- Blender Character: Sintel
   - https://studio.blender.org/characters/5d41a32b8307e9cd1023fa78/v2/
 
 - Blender Character: Scales: Baby Dragon
@@ -19,8 +19,7 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 # Original Sources of Meshes and Avatars
 
 - http://www.sintel.org/news/sintel-lite/
-- http://www.blendswap.com/3D-models/characters/sintel-lite/ (not active)
-- Fork of Sintel-Lite via BenDansie at https://www.blendswap.com/blend/2847
+- Update of Sintel-Lite via BenDansie at https://www.blendswap.com/blend/2847
 
 - Textures for Sintel Lite at the advertised location are no longer available. Origional URL was:
   - http://cdupload.com/files/164326_afujl/sintel_lite_textures.zip
