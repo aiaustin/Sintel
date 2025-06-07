@@ -20,9 +20,7 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 
 - http://www.sintel.org/news/sintel-lite/
 - http://www.blendswap.com/3D-models/characters/sintel-lite/ (not active)
-- Fork via BenDansie at https://www.blendswap.com/blend/2847
-- Find other Sintel related resources via search at https://blendswap.com/search?keyword=Sintel
-
+- Fork of Sintel-Lite via BenDansie at https://www.blendswap.com/blend/2847
 
 - Textures for Sintel Lite at the advertised location are no longer available. Origional URL was:
   - http://cdupload.com/files/164326_afujl/sintel_lite_textures.zip
@@ -44,8 +42,8 @@ Sintel is a part of the Blender project and created as an open source 3D modelli
 
 # Other Sources and Downloads
 
-- Sintel Lite Cycles and Hair by andrewprice - https://blendswap.com/profile/19868
-  - https://blendswap.com/blend/8114
+- Find other Sintel related resources via search at https://blendswap.com/search?keyword=Sintel
+- Sintel Lite Cycles and Particles Hair by andrewprice - https://blendswap.com/blend/8114
 
 # Information for Second Life and OpenSim
 
